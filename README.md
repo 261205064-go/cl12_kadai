@@ -36,6 +36,6 @@ img_flip.save(output_image)
   
   | 入力画像(input.ipg) | 出力画像(output.jpg) |
   |--------------------|---------------------|
-  | <img width="640" height="468" alt="input" src="https://github.com/user-attachments/assets/72153252-4ba0-4851-a357-28970eca89e8" /> |<img width="640" height="468" alt="20732258-c4c1-4cf1-9ad4-9afa733c8232" src="https://github.com/user-attachments/assets/6b7b2016-47a0-4d5d-b949-c8b294566d40" />|
+  |input.jpg|20732258-c4c1-4cf1-9ad4-9afa733c8232.jpg|
 
 以上
