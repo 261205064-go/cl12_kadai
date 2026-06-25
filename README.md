@@ -36,6 +36,6 @@ img_flip.save(output_image)
   
   | 入力画像(input.ipg) | 出力画像(output.jpg) |
   |--------------------|---------------------|
-  |input.jpg|20732258-c4c1-4cf1-9ad4-9afa733c8232.jpg|
+  | ![入力画像](input.jpg)| ![出力画像](20732258-c4c1-4cf1-9ad4-9afa733c8232.jpg)|
 
 以上
